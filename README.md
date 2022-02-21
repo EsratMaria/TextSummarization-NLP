@@ -5,7 +5,7 @@ In this example my given input paragraph is 10 sentences long. The summary consi
 **The algorithm scores each sentence and based on the score priority, the final summary is created.** 
 
 ## Libraries
- 
+
 * nltk
 * collections
 * heapq
