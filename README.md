@@ -7,6 +7,6 @@ In this example my given input paragraph is 10 sentences long. The summary consi
 ## Libraries
 
 * nltk
-* collections 
+* collections
 * heapq
 ---------------------------
